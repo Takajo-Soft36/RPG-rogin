@@ -1,7 +1,7 @@
-名前
+Name
 
 Lv.
 
-職業
+Job
 
-倒した魔王の数
+Dead Satan
