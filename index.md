@@ -5,7 +5,7 @@
 	<p>ご住所：<br>
 	<input type="text" name="address" size="30"></p>
 	<p>会員番号：<br>
-	<input type="text" name="address" size="30" value="ABC-"></p>
+	<input type="text" name="address" size="30"></p>
 	<p><input type="button" value="確認する" id="button2"></p>
 </form>
 </body>
