@@ -1,3 +1,3 @@
-[![ログイン](ログイン.jpg)](https://takajo-soft36.github.io/RPG-rogin/rog.md)
+[![ログイン](ログイン.png)](https://takajo-soft36.github.io/RPG-rogin/rog.md)
 
 
