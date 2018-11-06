@@ -7,7 +7,7 @@
 </form>
 </body>
 [ログイン](https://takajo-soft36.github.io/RPG-rogin/rog.md)
-
+<!DOCTYPE HTML>
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
