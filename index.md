@@ -6,6 +6,17 @@
 	<input type="text" name="name" size="15"></p>
 </form>
 </body>
-<input name="url" type="text" style=" width:800px; "><br>
-<input type="image" src="image.gif" alt="送信する" onclick="window.open( 'https://takajo-soft36.github.io/RPG-rogin/rog.md' + document.forms[0].url.value)" align="middle">
+
+<html>
+<head>
+<title>test</title>
+</head>
+<body>
+<form action="./test1.html" method="get">
+<input type="text" name="encode">
+<input type="submit" value="submit">
+</form>
+</body> 
+</html>
+
 [ログイン](https://takajo-soft36.github.io/RPG-rogin/rog.md)
