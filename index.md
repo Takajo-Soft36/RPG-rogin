@@ -4,14 +4,16 @@
 </head>
 <body>
 <form action="https://takajo-soft36.github.io/RPG-rogin/rogin.md" method="get">
-ID
+<p>ID:
+<br>
+<input type="text" name="t"></p>
   
-<input type="text" name="t">
-  
-  Passward
-  
-<input type="text" name="h">
+<p>Passward:
+<br>  
+<input type="text" name="h"></p>
 <input type="submit">
 </form>
 </body>
 </html>
+
+
