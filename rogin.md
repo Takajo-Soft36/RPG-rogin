@@ -21,7 +21,7 @@ function start(){
 txt=getkey("txt");
 slt=getkey("slt");
 chk=getkey("chk");
-str="名　前："+txt+"<br>年　齢："+slt+"<br>ペット："+chk;
+str="name："+txt+"<br>nennrei："+slt+"<br>petto："+chk;
 text.innerHTML=str;
 }
 </script>
