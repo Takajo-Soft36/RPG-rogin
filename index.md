@@ -7,7 +7,6 @@
 <p>ID:
 <br>
 <input type="text" name="t"></p>
-  
 <p>Passward:
 <br>  
 <input type="text" name="h"></p>
