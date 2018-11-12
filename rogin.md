@@ -1,5 +1,5 @@
-Name
+Name:sekitani
 
-Lv.
+Lv.100
 
-Dead Satan
+Dead Satan:50
