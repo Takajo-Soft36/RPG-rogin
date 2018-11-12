@@ -21,7 +21,7 @@ function start(){
 txt=getkey("txt");
 slt=getkey("slt");
 chk=getkey("chk");
-str="name："+txt+"<br>nennrei："+slt+"<br>petto："+chk;
+str="name:"+txt+"<br>nennrei:"+slt+"<br>petto:"+chk;
 text.innerHTML=str;
 }
 </script>
