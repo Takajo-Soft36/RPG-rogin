@@ -13,7 +13,7 @@ str2="&slt="+escape(obj.slt.value);
 str3="&chk=";
 if(obj.chk[0].checked){str3+=escape(obj.chk[0].value);}
 if(obj.chk[1].checked){str3+=escape(","+obj.chk[1].value);}
-location.href="https://takajo-soft36.github.io/RPG-rog.md?"+str1+str2+str3;
+location.href="https://takajo-soft36.github.io/RPG-rogin/rog.md?"+str1+str2+str3;
 }
 }
 </script>
