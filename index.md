@@ -1,12 +1,12 @@
 
 <html>
 <head>
-<title>test</title>
 </head>
 <body>
 <form action="https://takajo-soft36.github.io/RPG-rogin/rogin.md" method="get">
-<input type="text" name="encode">
-<input type="submit" value="submit">
+<input type="text" name="t" value="textA"></input>
+<input type="hidden" name="h" value="hiddenA">
+<input type="submit">
 </form>
-</body> 
+</body>
 </html>
