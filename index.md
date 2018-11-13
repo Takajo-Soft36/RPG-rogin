@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<form action="https://takajo-soft36.github.io/RPG-rogin/rogin.md" method="get">
+<form action="https://takajo-soft36.github.io/" method="get">
 <p>ID:
 <br>
 <input type="text" name="t"></p>
